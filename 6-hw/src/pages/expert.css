@@ -1,0 +1,20 @@
+.courses{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 15px;
+} 
+button{
+    border: 0.5px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: azure;
+}
+.ex_active{
+    background-color: yellow;
+}
+.box{
+    padding: 10px 5px;
+    width: 150px;
+    box-shadow: black;
+}
